@@ -1,6 +1,6 @@
 # vegetableClassificationCV
 Vegetable Classification(multi-class) using Computer Vision<br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tQLa00Ot4mNHtOjKQ7gMc1Fan_vXNDkE?authuser=2]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tQLa00Ot4mNHtOjKQ7gMc1Fan_vXNDkE?authuser=2#scrollTo=ax_zIIja0iWJ)
 
 **Business Problem**
 
