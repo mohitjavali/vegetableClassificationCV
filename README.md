@@ -13,8 +13,8 @@ Potato : 898<br>
 Onion : 849<br>
 Indian market : 599<br>
 
-This dataset contains another folder test which has a total of 351 images, split into four folders:
-Tomato : 106
-potato : 83
-onion : 81
-Indian market : 81
+This dataset contains another folder test which has a total of 351 images, split into four folders:<br>
+Tomato : 106<br>
+potato : 83<br>
+onion : 81<br>
+Indian market : 81<br>
